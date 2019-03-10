@@ -20,7 +20,7 @@ Coding samples will be included separately.
 `arr = new Array(4)`
 
 - Depending on system, memory allocated could be filled with garbage or a
-default value (like 0)
+default value (like 0).
 
 - Reallocation, i.e. increasing size, takes O(n) because you need to copy over
 all the old data into the newly allocated array.  Generally the actual
@@ -39,6 +39,7 @@ a resize function may double the original size of the array.
 | Access   | O(1)               | O(1)             |
 | Delete   | O(n)               | O(n)             |
 | Search   | O(n)               | O(n)             |
+
 Space Complexity: O(n)
 Pros:
 Cons:
@@ -72,3 +73,9 @@ Features:
 Order Notation (table):
 Pros:
 Cons:
+
+## Heaps (Min/Max)
+
+## Stacks
+
+## Queues
