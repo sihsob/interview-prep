@@ -3,7 +3,7 @@ My personal collection of interview prep materials.  My goal is to both study
 while creating the materials and to use it in the future as review materials.
 
 ## Table of Contents
-[Data Structures](../blob/master/datastructures.md)
+[Data Structures](datastructures.md)
 
 ## To Do
 - [ ] Complete data structures review
