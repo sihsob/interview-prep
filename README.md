@@ -7,7 +7,7 @@ while creating the materials and to use it in the future as review materials.
 
 ## To Do
 - [ ] Complete data structures review
-- [ ] Implement basic functionality in Python and C++
+- [ ] Implement basic DS functionality in Python and C++
 - [ ] Object Oriented Programming
 - [ ] Operating Systems
 - [ ] Algorithms
